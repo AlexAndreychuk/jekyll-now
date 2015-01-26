@@ -1,5 +1,5 @@
 ---
-layout: monthly_archive
+layout: page
 title: Archive
 permalink: /archive/
 ---
